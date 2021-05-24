@@ -1,0 +1,11 @@
+CIFSDir/<project>=\\\\RS02.RSVL.UNISYS.COM\\os2200\\OS2200\\KAANEES
+OS2200Share/<project>=os2200
+ProjectName/<project>=GITPROT
+ProjectType/<project>=RemoteProject
+ShareBreakpoints/<project>=false
+ShareState/<project>=stdShare
+buildStream/<project>=@. ENTER YOUR OS 2200 BUILD STREAM HERE.
+eclipse.preferences.version=1
+encoding/GA.ELT=Cp1252
+hostID/<project>=RS02-CONNECT
+workFile/<project>=OS2200*KAANEES.

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>GITPROT</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.unisys.tde.core.OS2200Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.unisys.tde.core.OS2200</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>GA.ELT</name>
+			<type>1</type>
+			<location>C:/APersonal Data/Eclipse Migration/EMigTestBuild/Data-Cache/RS02.RSVL.UNISYS.COM/os2200/OS2200/KAANEES/GA.ELT</location>
+		</link>
+	</linkedResources>
+</projectDescription>
