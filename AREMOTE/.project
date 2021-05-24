@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AREMOTE</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.unisys.tde.core.OS2200Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.unisys.tde.core.OS2200</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>TESTELT.ELT</name>
+			<type>1</type>
+			<location>C:/APersonal Data/Eclipse Migration/EMigTestBuild/Data-Cache/129.221.28.204/os2200/ANEES/ABC/TESTELT</location>
+		</link>
+		<link>
+			<name>TESTKL.ELT</name>
+			<type>1</type>
+			<location>C:/APersonal Data/Eclipse Migration/EMigTestBuild/Data-Cache/129.221.28.204/os2200/ANEES/ABC/TESTKL</location>
+		</link>
+	</linkedResources>
+</projectDescription>
